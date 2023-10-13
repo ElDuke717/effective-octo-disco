@@ -24,13 +24,13 @@ Reimburse is a simple, web-based application designed to help users calculate th
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/Reimburse.git
+   git clone https://github.com/ElDuke717/effective-octo-disco
    ```
 
 2. Navigate to the directory.
 
    ```bash
-   cd Reimburse
+   cd effective-octo-disco
    ```
 
 3. Open the `index.html` file in your web browser.
