@@ -1,0 +1,29 @@
+{
+  "name": "reimburse",
+  "version": "1.0.0",
+  "description": "An application to calculate reimbursement of travel expenses.",
+  "main": "reimburse.js",
+  "scripts": {
+    "test": "node reimburse.js / npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElDuke717/effective-octo-disco.git"
+  },
+  "keywords": [
+    "reimbursement",
+    "travel",
+    "expenses",
+    "projects",
+    "project",
+    "sets",
+    "calculations",
+    "finance"
+  ],
+  "author": "Nick Huemmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElDuke717/effective-octo-disco/issues"
+  },
+  "homepage": "https://github.com/ElDuke717/effective-octo-disco#readme"
+}
