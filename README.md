@@ -6,7 +6,7 @@
 
 ## Overview
 
-Reimburse is a simple, application designed to help users calculate the amount they should be reimbursed for their business trips. It can be used on the command line or as a web application.  The application adheres to specific rules that consider various types of days (travel days, full days, etc.) and cities (low cost, high cost).
+Reimburse is a simple application designed to help users calculate the amount they should be reimbursed for their business trips. It can be used on the command line or as a web application.  The application adheres to specific rules that consider various types of days (travel days, full days, etc.) and cities (low cost, high cost).
 
 ## Features
 
