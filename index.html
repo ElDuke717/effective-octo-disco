@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link 
+      rel="stylesheet" 
+      href="assets/css/style.css" 
+    />
+    <title>Reimburse</title>
+  </head>
+  <body>
+    <header>
+      <h1>Reimburse</h1>
+    </header>
+    <main>
+      <section>
+        <h2>This application will help you determine your reimbursement-amount based on your travel dates.</h2>
+        <h3>Instructions</h3>
+        <p>
+          Please use the form below to determine your reimbursement amount based on your dates of travel.
+        </p>
+      </section>
+      <form>
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" />
+        <label for="start-date">Start Date</label>
+        <input type="date" id="start-date" name="start-date" />
+        <label for="end-date">End Date</label>
+        <input type="date" id="end-date" name="end-date" />
+      </form>
+
+        <section>
+            <h2>Reimbursement Amount</h2>
+            <p>
+            Your reimbursement amount is: <span id="reimbursement-amount"></span>
+            </p>
+      </section>
+  </body>
+</html>
